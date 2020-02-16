@@ -35,6 +35,8 @@ public class Song {
         bird();
         System.out.println();
 
+        System.out.println("There was an old woman who swallowed a horse,");
+        System.out.println("She died of course.");
     }
 
     public static void bird() {
